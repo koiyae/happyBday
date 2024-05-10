@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Feliz Aniversário, Bob Esponja!</string>
+    <string name="signature_text">de Koiyae</string>
 </resources>
